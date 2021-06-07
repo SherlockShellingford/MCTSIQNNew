@@ -1,0 +1,1 @@
+python3 main.py > tembel4.txt
